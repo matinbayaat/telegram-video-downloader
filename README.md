@@ -24,21 +24,6 @@ A simple and clean Telegram bot that allows users to download videos from YouTub
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-
+```bash
 git clone https://github.com/yourusername/telegram-video-downloader.git
 cd telegram-video-downloader
-
-2. Install dependencies
-'''Bashpip install -r requirements.txt'''
-3. Create .env file
-envBOT_TOKEN=your_bot_token_here
-4. Run the bot
-Bashpython telegram-video-downloader.py
-📝 To Do
-
- Add user download history
- Add daily download limit
- Support playlists
-
-⚠️ Disclaimer
-This bot is for educational purposes. Please respect copyright laws and terms of service of the platforms.
