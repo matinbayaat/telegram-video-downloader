@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/telegram-video-downloader.git
 cd telegram-video-downloader
 
 2. Install dependencies
-Bashpip install -r requirements.txt
+'''Bashpip install -r requirements.txt'''
 3. Create .env file
 envBOT_TOKEN=your_bot_token_here
 4. Run the bot
