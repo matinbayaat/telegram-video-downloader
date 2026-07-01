@@ -42,9 +42,9 @@ BOT_TOKEN=your_bot_token_here
 python telegram-video-downloader.py
 ```
 ## 📝 To Do
-
 - [ ] Add user download history
 - [ ] Add daily download limit
 - [ ] Support playlists
 
 # ⚠️ Disclaimer
+- This bot is for educational purposes. Please respect copyright laws and terms of service of the platforms.
