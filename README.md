@@ -27,3 +27,5 @@ A simple and clean Telegram bot that allows users to download videos from YouTub
 ```bash
 git clone https://github.com/yourusername/telegram-video-downloader.git
 cd telegram-video-downloader
+
+2. Install dependencies
