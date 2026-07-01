@@ -29,16 +29,16 @@ git clone https://github.com/yourusername/telegram-video-downloader.git
 cd telegram-video-downloader
 ```
 
-##2. Install dependencies
+## 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-##3. Create .env file
+## 3. Create .env file
 ```env
 BOT_TOKEN=your_bot_token_here
 ```
-##4. Run the bot
+## 4. Run the bot
 ```bash
 python telegram-video-downloader.py
 ```
-#📝 To Do
+# 📝 To Do
